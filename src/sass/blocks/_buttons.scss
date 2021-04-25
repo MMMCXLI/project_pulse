@@ -4,7 +4,14 @@
     background: $main-color;
     border-radius: 5px;
     border: none;
+    color: #ffffff;
     font-weight: 500;
     font-size: 12px;
     text-transform: uppercase;
+    &_main {
+        margin-top: 67px;
+        width: 303px;
+        height: 54px;
+        font-size: 16px;
+    }
 }

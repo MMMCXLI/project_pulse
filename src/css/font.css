@@ -14,7 +14,7 @@
 
 @font-face {
     font-family: 'MuseoModerno';
-    src: url('../fonts/MuseoModerno-Bolt.woff') format('woff'), url('../fonts/MuseoModerno-Bolt.woff2') format('woff2');
+    src: url('../fonts/MuseoModerno-Bold.woff') format('woff'), url('../fonts/MuseoModerno-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
 }
