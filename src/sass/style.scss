@@ -4,9 +4,10 @@
 }
 
 .container {
-    min-width: 942px;
+    max-width: 942px;
     margin: 0 auto;
 }
 
 @import 'blocks/promo';
 @import 'blocks/header';
+@import 'blocks/buttons';
